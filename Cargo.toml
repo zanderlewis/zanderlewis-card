@@ -4,8 +4,9 @@ version = "0.0.1"
 edition = "2021"
 authors = ["Zander Lewis <zander@zanderlewis.dev>"]
 repository = "https://github.com/zanderlewis/zanderlewis-card"
+description = "My profile card as a rust crate."
+license = "MIT"
 
 [dependencies]
 crossterm = "0.28.1"
 ratatui = "0.28"
-
