@@ -9,4 +9,4 @@ license = "MIT"
 
 [dependencies]
 crossterm = "0.28.1"
-ratatui = "0.28"
+ratatui = "0.29"
