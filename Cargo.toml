@@ -8,5 +8,5 @@ description = "My profile card as a rust crate."
 license = "MIT"
 
 [dependencies]
-crossterm = "0.28.1"
+crossterm = "0.29.0"
 ratatui = "0.29"
