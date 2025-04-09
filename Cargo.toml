@@ -1,6 +1,6 @@
 [package]
 name = "zanderlewis"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
 authors = ["Zander Lewis <zander@zanderlewis.dev>"]
 repository = "https://github.com/zanderlewis/zanderlewis-card"

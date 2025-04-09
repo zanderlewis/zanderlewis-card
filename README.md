@@ -1,3 +1,4 @@
 # zanderlewis-card
-`cargo install zanderlewis`
-`zanderlewis`
+Install: `cargo install zanderlewis`
+
+Run: `zanderlewis`
